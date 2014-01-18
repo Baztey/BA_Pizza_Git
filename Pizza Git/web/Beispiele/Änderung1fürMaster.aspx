@@ -14,6 +14,10 @@
     <div>
     weiterhin soll geguckt werden ob wie sich die anderen Branches beim mergen verhalten und ob ich festellen kann was geändert wurde
     </div>
+
+        <p> 2 Änderung die vorgenommen wurde</p>
+
+        <p> 3 Änderung um Commit zu prüfen</p>
     </form>
 </body>
 </html>
