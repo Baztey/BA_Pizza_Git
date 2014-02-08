@@ -65,7 +65,6 @@
     <Content Include="Beispiele\user-select.aspx" />
     <Content Include="Beispiele\user-zaehlen.aspx" />
     <Content Include="Beispiele\user_read.aspx" />
-    <Content Include="Beispiele\Änderung1fürMaster.aspx" />
     <Content Include="default.aspx" />
     <Content Include="StyleSheet.css" />
     <Content Include="Web.config">
@@ -128,13 +127,6 @@
     </Compile>
     <Compile Include="Beispiele\user_read.aspx.designer.cs">
       <DependentUpon>user_read.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Beispiele\Änderung1fürMaster.aspx.cs">
-      <DependentUpon>Änderung1fürMaster.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Beispiele\Änderung1fürMaster.aspx.designer.cs">
-      <DependentUpon>Änderung1fürMaster.aspx</DependentUpon>
     </Compile>
     <Compile Include="default.aspx.cs">
       <DependentUpon>default.aspx</DependentUpon>
